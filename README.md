@@ -1,2 +1,2 @@
 # Silverblog
-Comienzo en uso de la herramienta GIT y practicas
+Practica y uso comienzo de uso de la herramienta GitHub 
